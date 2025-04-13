@@ -1,0 +1,2 @@
+/// <reference types="vite/client" />
+CHATGPT_API_KEY=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
